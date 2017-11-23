@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "8276604478",
+    "firebase_url": "https://edurer-assistant.firebaseio.com",
+    "project_id": "edurer-assistant",
+    "storage_bucket": "edurer-assistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8276604478:android:404e6442e0b00cbe",
+        "android_client_info": {
+          "package_name": "com.example.ashish_pc.edurerassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8276604478-g7b0t0rgor5man8rtj754d7jj5fekrsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF_F4yNTJ1mh_60QSf2ty6AG1bxo93pgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
